@@ -1,0 +1,29 @@
+.carousel-wrapper {
+  width: 30%;
+  height: 200px;
+  background-color: bisque;
+  display: flex;
+  flex-direction: row;
+}
+
+.box-wrapper {
+  width: 70%;
+  height: 200px;
+  overflow: hidden;
+  background-color:brown;
+}
+
+.carousel-box {
+
+}
+
+
+.carousel-right {
+  width: 15%;
+  height: 10%;
+}
+
+.carousel-left {
+  width: 15%;
+  height: 10%;
+}
